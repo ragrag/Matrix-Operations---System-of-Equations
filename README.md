@@ -1,9 +1,9 @@
 # Matrix-Operations---System-of-Equations
 Matrix Operations &amp;  System of Equations  using Cramer's Method
 
-Supported Operations:
-Inverse (Jordan Gaussian Elimination Method)
-Transpose
+Supported Operations:<br>
+Inverse (Jordan Gaussian Elimination Method)<br>
+Transpose<br>
 Multiply
 Scalar Multiply
 Summation
